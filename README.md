@@ -1,1 +1,3 @@
 # PensamentoComputacional
+
+André Gustavo 
